@@ -1,7 +1,7 @@
 ---
 title: DSM Project
 description: This is the description of our DSM Project
-date: "2021-09-02T19:47:09+02:00"
+date: "2019-05-02T19:47:09+02:00"
 jobDate: 2021-09 (5 months)
 work: [Network programming, system programming]
 techs: [C, Network programming]
