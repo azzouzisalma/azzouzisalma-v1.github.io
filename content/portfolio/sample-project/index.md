@@ -1,7 +1,7 @@
 ---
 title: MICA Project
 description: This is the description of our Mica Project
-date: "2021-04-02T19:47:09+02:00"
+date: "2021-03-02T19:47:09+02:00"
 jobDate: 2021-04 (4 months)
 work: [Signal processing, Cardiac analysis]
 techs: [Matlab]

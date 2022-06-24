@@ -1,7 +1,7 @@
 ---
 title: Dimensionality Reduction LDA&PCA
 description: This is the description of our PCA-LDA Project
-date: "2021-10-02T19:47:09+02:00"
+date: "2022-01-02T19:47:09+02:00"
 jobDate: 2022-09 (5 months)
 work: [Machine learning, Linear algebra]
 techs: [Python,KNN algorithm, MNIST dataset]
