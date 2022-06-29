@@ -1,4 +1,4 @@
-baseURL = 'azzouzisalma.github.io'
+baseURL = 'https://azzouzisalma.github.io'
 languageCode = "en-us"
 title = "SALMA AZZOUZI"
 theme = "personal-web"
